@@ -22,7 +22,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href='https://loyolaccj.org/pfa' className={styles.card}>
-            <h2>Pretrial Fairness Act Tracker &rarr;</h2>
+            <h2>Pretrial Fairness Act Tracker `&rarr;`</h2>
             <p>We're tracking how the PFA impacts bond court outcomes, pretrial, and jail population across Illinois.</p>
           </a>
 
