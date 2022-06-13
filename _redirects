@@ -1,1 +1,3 @@
-/netlify-site/*  https://jil-template-screening.netlify.app/:splat  200!
+/netlify-site/*  https://jil-template-screening.netlify.app/:splat  200
+
+/pfa/*  https://proxy-redirect-test.netlify.app/pfa/:splat 200 
