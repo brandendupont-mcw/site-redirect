@@ -8,6 +8,6 @@
 
 [[redirects]]
   from = "/pfa/*"
-  to = "https://proxy-redirect-test.netlify.app/pfa/* 200" 
+  to = "https://proxy-redirect-test.netlify.app/pfa/index.html 200" 
   status = 200
   force = true
