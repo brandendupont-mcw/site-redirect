@@ -29,7 +29,7 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: #b32347;
   text-decoration: none;
 }
 
@@ -42,7 +42,7 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 .title,
@@ -51,9 +51,9 @@
 }
 
 .description {
-  margin: 4rem 0;
+  margin: 3rem 0;
   line-height: 1.5;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 .code {
@@ -88,8 +88,8 @@
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  color: #b32347;;
+  border-color: #b32347;
 }
 
 .card h2 {
