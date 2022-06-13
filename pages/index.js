@@ -22,12 +22,12 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href='https://loyolaccj.org/pfa' className={styles.card}>
-            <h2>Pretrial Fairness Act Tracker `&rarr;`</h2>
+            <h2>Pretrial Fairness Act Tracker</h2>
             <p>We're tracking how the PFA impacts bond court outcomes, pretrial, and jail population across Illinois.</p>
           </a>
 
           <a href='https://charleston-disparity-in-prosecution.org/' className={styles.card}>
-            <h2>Disparity and Prosecution in Charleston, SC &rarr;</h2>
+            <h2>Disparity and Prosecution in Charleston, SC</h2>
             <p>Report on Charleston County, South Carolina prosecutorial decisions. </p>
           </a>
 
@@ -35,7 +35,7 @@ export default function Home() {
             href='https://data.mkedao.com/'
             className={styles.card}
           >
-            <h2>Milwaukee DA Dashboard &rarr;</h2>
+            <h2>Milwaukee DA Dashboard </h2>
             <p>Key indicators on how the justice system functions in Milwaukee from referral and arrest to sentencing. </p>
           </a>
 
@@ -43,7 +43,7 @@ export default function Home() {
             href='https://www.covidcrime-chicago.com/'
             className={styles.card}
           >
-            <h2>Covid-19's Effect on Chicago Crime &rarr;</h2>
+            <h2>Covid-19's Effect on Chicago Crime </h2>
             <p>
             Project tracks the effect of 2019-nCoV Containment Policies on crime trends in Chicago.
             </p>
